@@ -6,7 +6,7 @@
 * * *
 
 ## Description  
-Description
+Project uses constructors/prototypes to create a to do list.
 
 * * *
 
@@ -14,9 +14,7 @@ Description
 * HTML
 * CSS
 * JavaScript
-
-* * *
-
+* JQuery
 * * *
 
 ## Specs
@@ -25,7 +23,7 @@ Describe:ToDo()
 Test: "Takes in a string and makes an empty constructor."
 Expect: (ToDo(task).toEqual(undefined))
 
-Test: "Takes in a string and use the contructor to make a new object of the to do list."
+Test: "Takes in a string and use the constructor to make a new object of the to do list."
 Expect: (ToDo(task).toEqual({task: task}))
 
 * * *
