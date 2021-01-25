@@ -1,7 +1,7 @@
 # To Do List
 #### Co-Created By: Connor Burgess  
 #### Co-Created By: Andrew Lawson
-#### *Co-Created By: Tien Nguyen
+#### Co-Created By: Tien Nguyen
 
 * * *
 
@@ -31,7 +31,7 @@ Expect: (ToDo(task).toEqual({task: task}))
 ## Setup instructions:  
 * Go to [Github Pages](Link) to see webpage
 #### Alt
-* Clone Repo (Link: )
+* Clone Repo (https://github.com/ConnorBurgess/To-do-list.git)
 * Open index.html in browser
 
 * * *
@@ -42,8 +42,8 @@ Expect: (ToDo(task).toEqual({task: task}))
 * * *
 
 ## Addition comments:
-* Created on x/x/21  
-* Currently in development and unfinished (*as of x/x/21*)
+* Created on 1/25/21  
+* Currently in development and unfinished (*as of 1/25/21*)
 
 * * *
 
@@ -57,4 +57,4 @@ Licensed under [MIT license](https://mit-license.org/)
 ## Contact Information
 _Connor Burgess: [Email](connorburgesscodes@gmail.com)_
 _Andrew Lawson: [Email](alawson89@gmail.com)_
-_Tien Nguyen: [Email](tien96ng@github.com)
+_Tien Nguyen: [Email](tien96ng@github.com)_
