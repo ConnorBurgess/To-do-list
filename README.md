@@ -22,8 +22,11 @@ Description
 ## Specs
 
 Describe:ToDo()
-Test: "Takes in a string and makes it a property inside an instance of a ToDo constructor ."
-Expect: (ToDo("Take out trash").toEqual({task: "Take out trash"}))
+Test: "Takes in a string and makes an empty constructor."
+Expect: (ToDo(task).toEqual(undefined))
+
+Test: "Takes in a string and use the contructor to make a new object of the to do list."
+Expect: (ToDo(task).toEqual({task: task}))
 
 * * *
 

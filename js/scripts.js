@@ -1,0 +1,3 @@
+function ToDo() {
+  this.task = {};
+}
